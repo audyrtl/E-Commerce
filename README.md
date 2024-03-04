@@ -18,3 +18,9 @@ cd E-Commerce
 3. Install python package yang dibutuhkan
 ```
 pip install -r requirements.txt
+```
+
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
